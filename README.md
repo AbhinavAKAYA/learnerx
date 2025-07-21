@@ -1,8 +1,8 @@
 # learnerx
 
-![GitHub stars](https://img.shields.io/github/stars/AbhinavAKAYA/learnerx?style=social) ![GitHub forks](https://img.shields.io/github/forks/AbhinavAKAYA/learnerx?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/AbhinavAKAYA/learnerx?style=social) ![GitHub issues](https://img.shields.io/github/issues/AbhinavAKAYA/learnerx) 
+![GitHub stars](https://img.shields.io/github/stars/AbhinavAKAYA/learnerx?style=social&color=22c55e) ![GitHub forks](https://img.shields.io/github/forks/AbhinavAKAYA/learnerx?style=social&color=22c55e) ![GitHub watchers](https://img.shields.io/github/watchers/AbhinavAKAYA/learnerx?style=social&color=22c55e) ![GitHub issues](https://img.shields.io/github/issues/AbhinavAKAYA/learnerx?color=22c55e) 
 
-> No description provided.
+> ![GitHub stars](https://img.shields.io/github/stars/AbhinavAKAYA/learnerx?style=social) ![GitHub forks](https://img.shields.io/github/forks/AbhinavAKAYA/learnerx?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/AbhinavAKAYA/learnerx?style=social) ![GitHub issues](https://img.shields.io/github/issues/AbhinavAKAYA/learnerx)
 
 ---
 
@@ -41,6 +41,7 @@ _No feature tags available._
 ```
 ## 📝 Recent Commits
 
+- [`651159f`](https://github.com/AbhinavAKAYA/learnerx/commit/651159f5316d130eb3a3ec052653c1c9e93254d0) - Create README.md (Jul 21, 2025)
 - [`a277dd5`](https://github.com/AbhinavAKAYA/learnerx/commit/a277dd53e46a5bfea1e0094599dbca51b226a2c8) - message (Nov 16, 2021)
 
 ## 👥 Contributors
@@ -57,4 +58,4 @@ For questions or suggestions, reach out to the project owner: [GitHub Profile](h
 
 ---
 
-*Generated with ❤️ by Ultimate Creative GitHub README Generator*
+*Generated with ❤️ by Modern Creative GitHub README Generator*
