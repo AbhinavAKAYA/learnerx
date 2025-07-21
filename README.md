@@ -1,14 +1,15 @@
+# learnerx
 
+![GitHub stars](https://img.shields.io/github/stars/AbhinavAKAYA/learnerx?style=social&color=238636) ![GitHub forks](https://img.shields.io/github/forks/AbhinavAKAYA/learnerx?style=social&color=238636) ![GitHub watchers](https://img.shields.io/github/watchers/AbhinavAKAYA/learnerx?style=social&color=238636) ![GitHub issues](https://img.shields.io/github/issues/AbhinavAKAYA/learnerx?color=238636) 
 
-![GitHub stars](https://img.shields.io/github/stars/AbhinavAKAYA/learnerx?style=social&color=22c55e) ![GitHub forks](https://img.shields.io/github/forks/AbhinavAKAYA/learnerx?style=social&color=22c55e) ![GitHub watchers](https://img.shields.io/github/watchers/AbhinavAKAYA/learnerx?style=social&color=22c55e) ![GitHub issues](https://img.shields.io/github/issues/AbhinavAKAYA/learnerx?color=22c55e) 
-
-> An amazing open-source project waiting to be discovered! 🌟
+> A fantastic open-source project!
 
 ---
 
 ## 📋 Table of Contents
 - [Project Overview](#🚀-project-overview)
 - [Features](#✨-features)
+- [Tech Stack](#🛠️-tech-stack)
 - [License](#📄-license)
 
 ## 🚀 Project Overview
@@ -18,6 +19,11 @@ No description provided.
 ## ✨ Features
 
 _No feature tags available._
+
+## 🛠️ Tech Stack
+
+- ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg "HTML logo") **HTML** — 100.0%
+
 
 ## 📄 License
 
